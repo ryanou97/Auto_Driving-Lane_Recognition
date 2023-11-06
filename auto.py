@@ -40,3 +40,5 @@ if capture.isOpened():
             break
 else:
     print('開啟攝影機失敗')
+    
+    
