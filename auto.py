@@ -1,3 +1,9 @@
+# -*- coding: utf-8 -*-
+"""
+
+@author: ryanou97
+"""
+
 import cv2
 import auto_module as m  # function皆放在這裡
 import numpy as np
